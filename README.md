@@ -23,4 +23,3 @@ The most important points of reference for the project are as follows.
 1. The dataset is available [here](https://github.com/zalandoresearch/fashion-mnist). If the dataset is taken down in the future, please feel free to reach out to me at ankanatwork@gmail.com if you would like to learn more about the data. However, I may not be able to share the dataset with you due to licensing restrictions.
 2. The project is a basic one in nature and is not currently being maintained.
 3. [Here](https://researchguy.in/classification-of-clothing-images-using-a-convolutional-neural-network/) is the blog post covering this work.
-
